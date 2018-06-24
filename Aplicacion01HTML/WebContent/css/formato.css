@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+legend,
+label {
+	font-weight: bold;
+}
+
+p {
+	text-align: right;
+	width: 300px;
+}
+
+font-weigth:bold;
+
